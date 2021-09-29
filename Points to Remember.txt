@@ -3,4 +3,29 @@ CSS - Beauty Car Decor
 JS - Brain Car Engine
 
 
+Format:
+
+HTML tags
+
+Things that comes under head:
+meta tags
+external sites
+title
+
+body
+
+paragraph p*4
+headlines h*4
+
+lorem34 - 34 words line
+
+use <br> to change lines
+
+use <strong> and <em> instead of <bold> and <i>
+
+<img src="Sumen.jpg" alt="image not loading" width=100> Self Closing
+
+<a href="Sumen.html" target="_blank"> Sumen's document</a>
+
+unsplash source 😁
 
