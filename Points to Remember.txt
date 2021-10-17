@@ -29,3 +29,45 @@ use <strong> and <em> instead of <bold> and <i>
 
 unsplash source 😁
 
+Ordered Lists:
+   <ol type="a"> Sumen's Quality:
+               <li> stupid</li>
+               <li> Dumb <li>
+   </ol>
+
+Unordered Lists:
+   <ul type="square"> Sumen's Weakness:
+             <li> Food </li>
+             <li> Youtube </li>
+   </ul>
+
+Nested Lists      🙂
+
+Table Format:
+    <table>
+         <thead>
+         <tr>
+            <th>Name</th>
+            <th>Place</th>
+            <th>Animal</th>
+            <th>Thing</th>
+         </tr>   
+         </thead>
+         <tbody>
+         <tr>
+            <th>Sumen</th>
+            <th>Singapore</th>
+            <th>Sheeps</th>
+            <th>Sharpeners</th>
+         </tr>
+         <tr>
+            <th>Rajesh</th>
+            <th>Rajasthan</th>
+            <th>Rhinoceros</th>
+            <th>Rat Killer</th>
+         </tr>
+         </tbody>
+    </table>   
+
+    
+      
