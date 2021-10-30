@@ -112,4 +112,10 @@ Emmets for classes and Ids:
 			
 div.sumenclass#sumenid       ----> Try It!!
 
-			
+
+What is HTML Enitities ? 
+HTML Entities Usually Begins with &(Ampersand) and Ends with ;(Semicolon). These are usually use to represent the reserved characters and Empty Characters in HTML webpage.
+Examples : <p>
+               {Spaces}
+			   
+		   	
