@@ -1,0 +1,15 @@
+Cascading Style Sheets
+
+CSS is used to make our Website  Beautiful,Modern and Responsive.
+
+Format: Selector { property: value}
+
+           OR
+		   
+		Group of Selectors{Declaration Block}		 
+
+Three Ways to include CSS to Mark Up;
+1) Inline CSS
+2) Internal CSS
+3) External CSS
+
