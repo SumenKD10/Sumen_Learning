@@ -69,5 +69,47 @@ Table Format:
          </tbody>
     </table>   
 
+Forms
+ input type='text'
+            'radio'
+			'checkbox'
+			'date'
+			'datetime'
+			'button'
+			'reset'
+			
+ select name='sjvjd'
+     option value='vjkdfnv'
+			
     
-      
+Inline Element and Block Element
+Inline elements are those elements which doesn't takes whole space for itself
+and Block Elements are completely opposite of Inline Elements
+
+Examples of Inline Elements:
+1) span
+2) img
+3) a
+4) strong
+5) em
+
+Examples of Block Elements:
+1) p
+2) li/ol/ul
+3) div
+
+ID and Classes
+--------------
+Ids can only assigned to one element and an Element can only be assigned with one unique Id.
+
+while
+
+Classes can be assigned to multiple elements and Multiple Classes can be assigned to an elements.
+
+Emmets for classes and Ids:
+            . for classes
+			# for ids
+			
+div.sumenclass#sumenid       ----> Try It!!
+
+			
