@@ -21,9 +21,9 @@ git log
 
 git log -p
 git log -p -1
-git log stat
-git log pretty=oneline
-git log pretty=format:"%ae-%an"
+git log --stat
+git log --pretty=oneline
+git log --pretty=format:"%ae-%an"
 
 git clone https://www.google.git SumenFile_Name
 
