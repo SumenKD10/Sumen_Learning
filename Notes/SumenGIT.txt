@@ -1,0 +1,40 @@
+GIT
+
+git status
+
+git init
+
+git config --global user.name Sumen
+
+git config --global user.email sumenkumard@gmail.com
+
+Ignore Files
+           Make a Text File by name .gitignore
+		   Write all the files and Folders you want to ignore
+		   Only untracked Files and Folders can be ignored
+		 
+git add . / git add --a
+
+git commit Sumen.txt  / git commit -a -m "Comment"
+
+git log
+
+git log -p
+git log -p -1
+git log stat
+git log pretty=oneline
+git log pretty=format:"%ae-%an"
+
+git clone https://www.google.git SumenFile_Name
+
+git restore --staged Sumen.txt		 
+
+git mv Sumen.txt Sumen_Renamed.txt
+
+git rm Sumen.txt
+
+git rm --cached Sumen.txt
+
+git checkout Sumen.txt
+
+		   
