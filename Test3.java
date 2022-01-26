@@ -11,5 +11,6 @@ class Test3 {
         System.out.println( x+" "+t3.y);
         Test3 nt3=new Test3();
         System.out.println( nt3.x+" "+nt3.y);
+         
     }
 }

@@ -17,7 +17,7 @@ body
 paragraph p*4
 headlines h*4
 
-lorem34 - 34 words line
+lorem*34 - 34 words line
 
 use <br> to change lines
 
@@ -117,5 +117,8 @@ What is HTML Enitities ?
 HTML Entities Usually Begins with &(Ampersand) and Ends with ;(Semicolon). These are usually use to represent the reserved characters and Empty Characters in HTML webpage.
 Examples : <p>
                {Spaces}
+			   
+			   
+Always use <strong> instead of <b> and <em> instead of <i>. because <b> and <i> only tells about the Looks and not about what importance they have.
 			   
 		   	

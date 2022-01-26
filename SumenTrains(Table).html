@@ -5,12 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Train Time Table</title>
+    <style>
+        tr:nth-child(odd) {
+  background-color: cyan ;
+}
+    </style>
 </head>
 <body>
     <!-- Adding Tables -->
 <table border="3">
     <thead>
-        <tr>
+        <tr style="background-color: gray;">
             <th>Name of Train</th>
             <th>Departs From</th>
             <th>Dep Time</th>
@@ -42,10 +47,24 @@
         </tr>
         <tr>
             <td>Rajdhani Express</td>
-            <td>Bhagalpur</td>
+            <td>Barauni</td>
             <td>18:07</td>
             <td>New Delhi</td>
             <td>07:15</td>
+        </tr>
+        <tr>
+            <td>Kamaniya Express</td>
+            <td>Patna</td>
+            <td>07:02</td>
+            <td>Bhabhua</td>
+            <td>10:02</td>
+        </tr>
+        <tr>
+            <td>Parinirvan Express</td>
+            <td>Patliputra</td>
+            <td>11:00</td>
+            <td>Gorakhpur</td>
+            <td>16:18</td>
         </tr>
     </tbody>
 </table>
